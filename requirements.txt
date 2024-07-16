@@ -1,0 +1,15 @@
+functions-framework==3.*
+pandas
+loguru
+numpy
+oauth2client
+gspread
+streamlit
+python-dotenv
+openai
+plotly
+pygwalker
+streamlit-shadcn-ui
+streamlit-pills
+streamlit-extras
+simpy
